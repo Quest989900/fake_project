@@ -1,4 +1,6 @@
 select * from users where name = "nurudeen"
 
 insert in users username values "aadeleke"
-bnbn
+
+let data = [2,5,7, 'princess']
+data.reverse()
