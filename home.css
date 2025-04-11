@@ -9,3 +9,8 @@ p{
 h2{
     background-color: aquamarine;
 }
+
+div a{
+    text-decoration: none;
+    color: #f0f0f0;
+}
